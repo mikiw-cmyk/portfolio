@@ -19,7 +19,7 @@ return [
         "purpose"     => "To make it easier for senior citizens to request assistance with their daily needs through a simple and accessible mobile application.",
         "tech"        => ["Flutter", "Dart", "Firebase"],
         "image"       => "seniorassist.jpg",
-        "github"      => "",
+        "github"      => "https://github.com/mikiw-cmyk/senior-assist",
         "demo"        => "",
     ],
 
@@ -30,7 +30,7 @@ return [
         "purpose"     => "To simplify the movie ticket booking process by allowing customers to browse available movies, choose schedules, and book their tickets online.",
         "tech"        => ["HTML", "CSS", "JavaScript", "PHP", "MySQL", "XAMPP"],
         "image"       => "cinebook.jpg",
-        "github"      => "",
+        "github"      => "https://github.com/mikiw-cmyk/cinebook",
         "demo"        => "",
     ],
 

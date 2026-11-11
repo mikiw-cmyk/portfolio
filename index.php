@@ -164,7 +164,7 @@ $skills = [
                         <p><?= htmlspecialchars($project['description']) ?></p>
                         <p><strong>Purpose:</strong> <?= htmlspecialchars($project['purpose']) ?></p>
 
-                        <h4>Technologies</h4>
+                        <h4>Built With</h4>
                         <ul class="skill-tags">
                             <?php foreach ($project['tech'] as $tech): ?>
                                 <li><?= htmlspecialchars($tech) ?></li>
