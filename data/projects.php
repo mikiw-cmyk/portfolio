@@ -2,7 +2,7 @@
 return [
 
     [
-        "name"        => "Angel's Store",
+        "name"        => "Anjel's Store",
         "type"        => "Capstone Project",
         "description" => "A web-based grocery ordering system.",
         "purpose"     => "To provide customers with a convenient way to browse and order groceries online, making shopping faster and easier while allowing them to pick up their orders at the store.",

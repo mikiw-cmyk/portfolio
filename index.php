@@ -1,29 +1,23 @@
 <?php
-// Edit these in one place and the whole page updates
 $name    = "John Michael Cabig";
 $role    = "Aspiring Junior Web Developer";
 $tagline = "Learning by building, one project at a time.";
 
-// SOCIAL LINKS: replace with your real links
 $github   = "https://github.com/mikiw-cmyk";
 
-// CONTACT DETAILS: replace with your real email and phone number
 $email = "cabigmichael1@gmail.com";
 $phone = "09503320151";
 
-// PROJECTS: the list lives in data/projects.php
 $projects = require __DIR__ . '/data/projects.php';
 
-// EDUCATION: edit the text between the quotes
 $education = [
     "program" => "BS Information Technology",
     "school"  => "Bohol Island State University (BISU) - Balilihan Campus",
     "status"  => "Currently enrolled (since 2023)",
-    // Areas you are studying. Add or remove freely.
     "areas" => ["Web development", "PHP and MySQL", "JavaScript", "Mobile app development (Flutter)", "Database basics"],
 ];
 
-// LEARNING: what you are improving right now
+// LEARNING
 $learning = [
     ["title" => "Improving JavaScript",        "text" => "Getting more comfortable with the language and using it in my projects."],
     ["title" => "PHP and MySQL",               "text" => "Building and improving systems that work with a database."],
@@ -33,7 +27,7 @@ $learning = [
     ["title" => "Real-world projects",         "text" => "Building more projects to practice what I learn."],
 ];
 
-// SKILLS: add or remove items here, the page builds itself
+// SKILLS
 $skills = [
     "Frontend" => ["HTML", "CSS", "JavaScript", "Dart / Flutter"],
     "Backend"  => ["PHP", "Firebase"],
