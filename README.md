@@ -86,3 +86,4 @@ Open `css/style.css` and edit the color values inside `:root` at the top.
 
 I built this portfolio step by step to practice HTML, CSS, JavaScript, and PHP.
 It's still a student project, and I'll keep improving it as I learn.
+hi
